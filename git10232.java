@@ -14,7 +14,7 @@ public class git10232{
             min=v1;
         }
     }
-    System.out.printf("%2.f\n",max);
-    System.out.printf("%2.f\n",min);
+    System.out.printf("%.2f\n",max);
+    System.out.printf("%.2f\n",min);
 }
 }
